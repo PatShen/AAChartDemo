@@ -1,0 +1,16 @@
+PODS:
+  - AAChartKit (4.0.0)
+
+DEPENDENCIES:
+  - AAChartKit (from `LocalPods/AAChartKit`)
+
+EXTERNAL SOURCES:
+  AAChartKit:
+    :path: LocalPods/AAChartKit
+
+SPEC CHECKSUMS:
+  AAChartKit: 33cb3e0776ebbcccab82425d65c680b86d994449
+
+PODFILE CHECKSUM: 2a9f57c169d1954f30203c0e6b0a857e4fb0f2e5
+
+COCOAPODS: 1.8.4
